@@ -9,56 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+**LinkedIn:** https://www.linkedin.com/in/bradywillhelme/
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's degree, Statistics, University of New South Wales (UNSW), 2018
+* Honours degree, Commerce, Monash University, 2013
+* Bachelor's degree, Commerce (Macroeconomics and Finance), Monash University, 2012
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2019 to June 2024: Data Scientist at Amazon
+  * Seattle, WA, USA
+* June 2018 to December 2018: Data Analyst at Amazon
+  * Sydney, NSW, Australia
+* January 2016 to June 2018: Quantitative Analyst at Westpac Group
+  * Sydney, NSW, Australia
+* February 2015 to December 2015: Risk Graduate at Westpac Group
+  * Sydney, NSW, Australia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* SQL
+* LaTeX
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
