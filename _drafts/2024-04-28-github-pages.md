@@ -9,6 +9,10 @@ To get myself in the habit of posting here, I thought I'd retroactively document
 
 I'm using [GitHub Pages](https://pages.github.com/).
 
+<!--
+ GitHub pages is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository.
+-->
+
 You *can* start from scratch with a barebones site via a handful of terminal commands (after creating a new repository). This is how I created the [old version](/files/old.html) of this website.
 
 ```
@@ -25,7 +29,7 @@ git commit -m "initial commit"
 git push -u origin main
 ```
 
-But what I found most useful was the [Academic Pages](https://academicpages.github.io/) template, thanks to [Stuart Geiger](http://stuartgeiger.com/). I forked [academicpages.github.io](https://github.com/academicpages/academicpages.github.io), renamed it and modified the content to suit me. This [diff](https://archive.is/3TPas) was helpful in showing the most important files to edit, at least to start with.
+But what I found most useful was the [Academic Pages](https://academicpages.github.io/) template. I forked [academicpages.github.io](https://github.com/academicpages/academicpages.github.io), renamed it and modified the content to suit me. This [diff](https://archive.is/3TPas) was helpful in showing the most important files to edit, at least to start with.
 
 I highly recommend [running locally](https://github.com/academicpages/academicpages.github.io?tab=readme-ov-file#running-locally) to preview changes before pushing them. I'm mostly a Windows user, Academic Pages is a [Jekyll](https://jekyllrb.com/) theme and [Jekyll is not officially supported on Windows](https://jekyllrb.com/docs/installation/windows/); so I used a virtual machine with Ubuntu instead. After installing some bits and pieces, I could run this command from a terminal window to generate the website HTML and serve it via localhost.
 
