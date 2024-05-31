@@ -6,5 +6,5 @@ author_profile: true
 
 **E-mail:** bw.pm.me [at] pm.me
 
-I am currently not open to employment opportunities.
+Not open to employment opportunities.
 
